@@ -1,5 +1,5 @@
 package Package1;
 
 public class test5 {
-  /it is my real job
+  //it is my real job
 }
